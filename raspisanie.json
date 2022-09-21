@@ -1,0 +1,732 @@
+[
+  {
+    "group": "Са1-21",
+    "rasp": [
+      {
+        "day_number": 1,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Иностранный язык в профессиональной деятельности",
+            "teacher": "Микишова Е.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 2,
+            "subject" : "Физическая культура",
+            "teacher": "Данилов А.Г.",
+            "cabinet": "с/з"
+          },
+          {
+            "number": 3,
+            "subject" : "Операционные системы и среды",
+            "teacher": "Ордяков Д.Е.",
+            "cabinet": "210М"
+          },
+          {
+            "number": 4,
+            "subject" : "Операционные системы и среды",
+            "teacher": "Ордяков Д.Е.",
+            "cabinet": "210М"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Элементы высшей математики",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          },
+          {
+            "number": 2,
+            "subject" : "Дискретная математика",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          },
+          {
+            "number": 3,
+            "subject" : "Основы проектирования баз данных",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Информационные технологии",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У"
+          },
+          {
+            "number": 2,
+            "subject" : "Информационные технологии",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Основы электротехники",
+            "teacher": "Мельникова Л.Н.",
+            "cabinet": "301У",
+            "type": 2
+          },
+          {
+            "number": 3,
+            "subject" : "Основы электротехники",
+            "teacher": "Мельникова Л.Н.",
+            "cabinet": "301У"
+          },
+          {
+            "number": 4,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "202У",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Архитектура аппаратных средств",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 2,
+            "subject" : "Архитектура аппаратных средств",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 3,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "102У"
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Русский язык в профессиональной деятельности",
+            "teacher": "Михайлова Н.В.",
+            "cabinet": "102У"
+          },
+          {
+            "number": 2,
+            "subject" : "Русский язык в профессиональной деятельности",
+            "teacher": "Михайлова Н.В.",
+            "cabinet": "102У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У",
+            "type": 2
+          },
+          {
+            "number": 3,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "Ит1-22",
+    "rasp": [
+      {
+        "day_number": 1,
+        "lessons": [
+          {
+            "number": 4,
+            "subject" : "Информатика",
+            "cabinet": "303У"
+          },
+          {
+            "number": 5,
+            "subject" : "Иностранный язык, Федорова Т.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 6,
+            "subject" : "Математика",
+            "cabinet": "303У"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "lessons": [
+          {
+            "number": 4,
+            "subject" : "Математика",
+            "cabinet": "303У"
+          },
+          {
+            "number": 5,
+            "subject" : "Русский язык",
+            "teacher": "Солодовникова Т.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 6,
+            "subject" : "Литература",
+            "teacher": "Солодовникова Т.В.",
+            "cabinet": "303У"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "lessons": [
+          {
+            "number": 4,
+            "subject" : "Иностранный язык",
+            "teacher": "Федорова Т.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 5,
+            "subject" : "Иностранный язык",
+            "teacher": "Федорова Т.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 6,
+            "subject" : "Математика",
+            "cabinet": "303У"
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "lessons": [
+          {
+            "number": 4,
+            "subject" : "Основы безопасности жизнедеятельности",
+            "teacher": "Григорьева Л.П.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 5,
+            "subject" : "Иностранный язык",
+            "teacher" : "Федорова Т.В.",
+            "cabinet": "303У"
+          },
+          {
+            "number": 6,
+            "subject" : "Физика",
+            "cabinet": "303У"
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "lessons": [
+          {
+            "number": 4,
+            "subject" : "Физическая культура",
+            "teacher": "Данилов А.Г.",
+            "cabinet": "с/з"
+          },
+          {
+            "number": 5,
+            "subject" : "Информатика",
+            "cabinet": "303У"
+          },
+          {
+            "number": 6,
+            "subject" : "Информатика",
+            "cabinet": "303У"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "Са3-21",
+    "rasp": [
+      {
+        "day_number": 1,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Архитектура аппаратных средств",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 2,
+            "subject" : "Архитектура аппаратных средств",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 3,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "101У"
+          },
+          {
+            "number": 4,
+            "subject" : "Физическая культура",
+            "teacher": "Данилов А.Г.",
+            "cabinet": "с/з"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Основы проектирования баз данных",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У"
+          },
+          {
+            "number": 2,
+            "subject" : "Информационные технологии",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У"
+          },
+          {
+            "number": 3,
+            "subject" : "Элементы высшей математики",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          },
+          {
+            "number": 4,
+            "subject" : "Дискретная математика",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Основы электротехники",
+            "teacher": "Мельникова Л.Н.",
+            "cabinet": "301У"
+          },
+          {
+            "number": 2,
+            "subject" : "Основы электротехники",
+            "teacher": "Мельникова Л.Н.",
+            "cabinet": "301У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Информационные технологии",
+            "teacher": "Терентьева С.Н.",
+            "cabinet": "402У",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "102У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Операционные системы и среды",
+            "teacher": "Ордяков Д.Е.",
+            "cabinet": "210М"
+          },
+          {
+            "number": 3,
+            "subject" : "Операционные системы и среды",
+            "teacher": "Ордяков Д.Е.",
+            "cabinet": "210М"
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У"
+          },
+          {
+            "number": 2,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Русский язык в профессиональной деятельности",
+            "teacher": "Михайлова Н.В.",
+            "cabinet": "102У",
+            "type": 2
+          },
+          {
+            "number": 3,
+            "subject" : "Русский язык в профессиональной деятельности",
+            "teacher": "Михайлова Н.В.",
+            "cabinet": "102У"
+          },
+          {
+            "number": 4,
+            "subject" : "Иностранный язык в профессиональной деятельности",
+            "teacher": "Ратошкина О.П.",
+            "cabinet": "101У"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "С1-21",
+    "rasp": [
+      {
+        "day_number": 1,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Физика",
+            "teacher": "Павлова А.А.",
+            "cabinet": "101У"
+          },
+          {
+            "number": 2,
+            "subject" : "Математика",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          },
+          {
+            "number": 3,
+            "subject" : "Иностранный язык в профессиональной деятельности",
+            "teacher": "Микишова Е.В.",
+            "cabinet": "102У"
+          },
+          {
+            "number": 4,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "101У"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 2,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 3,
+            "subject" : "Физическая культура",
+            "teacher": "Данилов А.Г.",
+            "cabinet": "с/з"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У"
+          },
+          {
+            "number": 2,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У",
+            "type": 2
+          },
+          {
+            "number": 3,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У"
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207У"
+          },
+          {
+            "number": 2,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207У"
+          },
+          {
+            "number": 3,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У"
+          },
+          {
+            "number": 2,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "202У",
+            "type": 2
+          },
+          {
+            "number": 3,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М"
+          }
+        ]
+      },
+      {
+        "day_number": 6,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 2,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404М"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "С3-21",
+    "rasp": [
+      {
+        "day_number": 1,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Физическая культура",
+            "teacher": "Данилов А.Г.",
+            "cabinet": "с/з"
+          },
+          {
+            "number": 2,
+            "subject" : "Физика",
+            "teacher": "Павлова А.А.",
+            "cabinet": "101У"
+          },
+          {
+            "number": 3,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М"
+          },
+          {
+            "number": 4,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "lessons": [
+          {
+            "number": 2,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "101У"
+          },
+          {
+            "number": 3,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          },
+          {
+            "number": 4,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У"
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У"
+          },
+          {
+            "number": 2,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У",
+            "type": 1
+          },
+          {
+            "number": 2,
+            "subject" : "История",
+            "teacher": "Чугунов Е.М.",
+            "cabinet": "103У",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "lessons": [
+          {
+            "number": 3,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У",
+            "type": 2
+          },
+          {
+            "number": 4,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404У"
+          },
+          {
+            "number": 5,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М"
+          },
+          {
+            "number": 2,
+            "subject" : "Электронная техника",
+            "teacher": "Васильева И.С.",
+            "cabinet": "207М",
+            "type": 2
+          },
+          {
+            "number": 2,
+            "subject" : "Психология общения",
+            "teacher": "Емельянова С.В.",
+            "cabinet": "202У",
+            "type": 1
+          },
+          {
+            "number": 3,
+            "subject" : "Иностранный язык в профессиональной деятельности",
+            "teacher": "Ратошкина О.П.",
+            "cabinet": "101У"
+          },
+          {
+            "number": 4,
+            "subject" : "Математика",
+            "teacher": "Петрова Н.Г.",
+            "cabinet": "304У"
+          }
+        ]
+      },
+      {
+        "day_number": 6,
+        "lessons": [
+          {
+            "number": 1,
+            "subject" : "Теория электрических цепей",
+            "teacher": "Емелин С.В.",
+            "cabinet": "404М"
+          },
+          {
+            "number": 2,
+            "subject" : "Вычислительная техника",
+            "teacher": "Габибуллаева И.В.",
+            "cabinet": "302У"
+          }
+        ]
+      }
+    ]
+  }
+]
