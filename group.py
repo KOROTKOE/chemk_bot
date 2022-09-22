@@ -37,8 +37,12 @@ class GroupInfo:
 
 def get_current_schedule(url):
     site_text = urllib.request.urlopen(url).read()
+    body = bs4.BeautifulSoup(site_text).body
 
-    soup = bs4.BeautifulSoup(site_text).find('table')
+    if body.div['class'][0] == "Section1":
+        return False
+
+    soup = body.find('table')
     result = soup.find_all('tr')
 
     a = []

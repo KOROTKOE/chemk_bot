@@ -35,20 +35,33 @@ class Schedule:
                     number += 1
             if self.worksheet.cell_value(i, row_number) != "":
                 name = self.worksheet.cell_value(i, row_number)
+                is_have_more_lesson = name.startswith("*")
+                second_name = None
+                if is_have_more_lesson:
+                    second_name = self.worksheet.cell_value(i, row_number+2)
                 i += 1
                 teacher = self.worksheet.cell_value(i, row_number)
-                cabinet = self.worksheet.cell_value(i, row_number + 3)
+                if is_have_more_lesson:
+                    cabinet = self.worksheet.cell_value(i, row_number + 1)
+                else:
+                    cabinet = self.worksheet.cell_value(i, row_number + 3)
                 subject = {
                     "number": number,
                     "name": name,
                     "teacher": teacher,
                     "cabinet": cabinet
                 }
-                if name.startswith("*"):
-                    subject["type"] = 1
-                elif name.startswith("**"):
-                    subject["type"] = 2
+                if is_have_more_lesson:
+                    subject["type"] = 0
                 subjects.append(subject)
+                if second_name != None and second_name != "":
+                    subjects.append({
+                        "number": number,
+                        "name": second_name,
+                        "teacher": self.worksheet.cell_value(i, row_number+2),
+                        "cabinet": self.worksheet.cell_value(i, row_number+3),
+                        "type": 1
+                    })
             i += 1
 
         return rasp
