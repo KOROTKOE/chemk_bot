@@ -2,19 +2,19 @@ import urllib.request
 import bs4
 
 class GroupInfo:
-    def __init__(self,group):
+    def __init__(self, group):
         self.subjects = []
         self.lessons = []
-        self.group = group
+        self.group = group.replace('\r\n',"").strip()
 
-    def add_subject(self,lesson,subject="по расписании", cabinet=""):
+    def add_subject(self, lesson, subject="по расписании", cabinet=""):
         self.subjects.append({
             'lesson':lesson,
             'subject':subject,
             'cabinet':cabinet
         })
 
-    def add_lesson(self,lesson,subject="по расписании", cabinet=""):
+    def add_lesson(self, lesson, subject="по расписании", cabinet=""):
         if cabinet == "\xa0":
             cabinet = ""
         self.lessons.append({
